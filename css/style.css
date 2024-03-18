@@ -82,10 +82,18 @@ p {
 }
 
 .wrapper {
-  display: inline-block;
+  display: flex;
+  align-items: center;
 }
 
 .avatar {
+  margin: 0 1rem 0 0 ;
+  width: 2rem;
+  height: auto;
+}
+
+.nameUser {
+  font-size: 0.7rem;
 }
 
 .attribution {
