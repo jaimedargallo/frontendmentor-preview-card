@@ -21,7 +21,7 @@ main {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 5.5rem 1.2rem 0 0;
+  margin: 13rem 1.2rem 0 0;
 }
 
 .card {
@@ -34,8 +34,10 @@ main {
 }
 
 .ilustration {
+  aspect-ratio: 4/3; 
+  object-fit: cover;
+  width: 100%;
   border-radius: 9px;
-  max-width: 100%;
   margin: 0 1rem 1rem 0;
 }
 
