@@ -21,23 +21,23 @@ main {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 13rem 1.2rem 0 0;
+  margin: 13rem 1rem 0 0;
 }
 
 .card {
   background-color: var(--White);
   border: 1px solid #000;
-  border-radius: 15px;
+  border-radius: 20px;
   box-shadow: 0.5rem 0.5rem var(--Black);
   width: 17rem;
   padding: 1.5rem;
 }
 
 .ilustration {
-  aspect-ratio: 4/3; 
+  aspect-ratio: 18 / 13; 
   object-fit: cover;
   width: 100%;
-  border-radius: 9px;
+  border-radius: 11px;
   margin: 0 1rem 1rem 0;
 }
 
@@ -48,7 +48,7 @@ main {
   font-size: 0.7rem;
   font-weight: 800;
   margin: 5rem 0 5rem 0;
-  padding: 0.4rem 0.8rem;
+  padding: 0.5rem 0.8rem;
   text-decoration: none;
   transition-property: color, background-color;
   transition-duration: 300ms;
@@ -63,9 +63,10 @@ main {
 
 .date {
   color: var(--Black);
-  font-size: 0.7rem;
+  font-size: 0.8rem;
   font-weight: 500;
-  margin: 1rem 0 1rem 0;
+  letter-spacing: -0.5px;
+  margin: 1.5rem 0 1rem 0;
 }
 
 h2 {
@@ -78,6 +79,7 @@ h2 {
 p {
   font-size: 0.8rem;
   font-weight: 500;
+  line-height: 20px;
   margin: 0 0 2rem;
   color: var(--Grey);
 }
@@ -88,13 +90,13 @@ p {
 }
 
 .avatar {
-  margin: 0 1rem 0 0 ;
+  margin: 0.5rem 0.7rem 0 0;
   width: 2rem;
   height: auto;
 }
 
 .nameUser {
-  font-size: 0.7rem;
+  font-size: 0.8rem;
 }
 
 .attribution {
