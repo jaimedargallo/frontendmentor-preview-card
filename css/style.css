@@ -38,7 +38,7 @@ main {
   object-fit: cover;
   width: 100%;
   border-radius: 11px;
-  margin: 0 0 1.2rem 0; 
+  margin: 0 0 1.2rem 0;
 }
 
 .learning {
@@ -68,11 +68,21 @@ main {
   margin: 1rem 0;
 }
 
-h1 {
+
+h1{
   font-size: 1.2rem;
   font-weight: 800;
   letter-spacing: 0.5px;
-  color: var(--Dark-blue);
+}
+
+.foundations {
+  text-decoration: none;
+  color: var(--Black);
+}
+
+.foundations:hover,
+.foundations:focus {
+  color: var(--Yellow);
 }
 
 p {
@@ -81,7 +91,7 @@ p {
   line-height: 20px;
   letter-spacing: 0.5px;
   color: var(--Grey);
-  margin: 1rem 0 1.1rem 0 ;
+  margin: 1rem 0 1.1rem 0;
 }
 
 .wrapperUser {
