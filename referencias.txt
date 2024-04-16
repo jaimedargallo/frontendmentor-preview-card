@@ -1,0 +1,5 @@
+Cambiar imagen ratio
+https://www.silocreativo.com/creando-relaciones-aspecto-css-aspect-ratio/
+
+Buenas maneras commits
+https://midu.dev/buenas-practicas-escribir-commits-git/
