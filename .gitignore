@@ -17,7 +17,9 @@
 *:Zone.Identifier
 ./design
 .referencias.txt
-./assets
+
+*
+!node-dht-sensor-chip/*
 
 # Dependency directories
 node_modules/
@@ -25,3 +27,4 @@ node_modules/
 # output directory
 dist/
 .vercel
+assets/
