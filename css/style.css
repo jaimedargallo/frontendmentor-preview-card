@@ -5,6 +5,11 @@
   --Black: hsl(0, 0%, 7%);
 }
 
+* {
+  margin: 0;
+  padding: 0;
+}
+
 body,
 html {
   height: 100%;
@@ -121,4 +126,30 @@ p {
 
 .attribution a {
   color: hsl(228, 45%, 44%);
+}
+
+@media (min-width: 640px) {
+  .card {
+    width: 21rem;
+  }
+
+  .ilustration {
+    aspect-ratio: auto;
+    
+  }
+
+  .learning {
+    font-size: 0.9rem;
+    margin: 1rem 0 1.2rem 0;
+  }
+
+  .date {
+    font-size: 0.9rem;
+    letter-spacing: -0.3px;
+  }
+
+  h1 {
+    font-size: 1.5rem;
+    letter-spacing: 0.1px;
+  }
 }
