@@ -58,11 +58,14 @@ Moving forward, I aim to focus on refining and perfecting the following areas:
 *(Add areas you want to continue focusing on in future projects.)*
 
 ## Useful Resources
-- [Example Resource 1](#) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example Resource 2](#) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Changing Aspect Ratio](https://www.silocreativo.com/creando-relaciones-aspecto-css-aspect-ratio/) - 
+
+- [Git Commit Best Practices](https://midu.dev/buenas-practicas-escribir-commits-git/) - 
 
 ## Author
 - [Frontend Mentor](https://www.frontendmentor.io/profile/jaimedargallo)
 - [Twitter](https://twitter.com/JaimeDargallo) 
 - [Github](https://github.com/jaimedargallo)
+
+
 
