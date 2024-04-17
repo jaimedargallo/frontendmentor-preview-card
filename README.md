@@ -1,91 +1,72 @@
-# Frontend Mentor - Blog preview card solution 🚀
+# Frontend Mentor - Blog Preview Card Solution 🚀
 
 ![Design preview for the Blog preview card coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge.
+Thank you for exploring this front-end coding challenge.
 
-This is a solution to the Blog preview card challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This repository contains my solution to the Blog Preview Card challenge on Frontend Mentor. Frontend Mentor challenges are fantastic for honing your coding skills by building realistic projects.
 
-## Table of contents
-Overview
-The challenge
-Screenshot
-Links
-My process
-Built with
-What I learned
-Continued development
-Useful resources
-Author
-Acknowledgments
-Note: Delete this note and update the table of contents based on what sections you keep.
+## Table of Contents
+- [Overview](#overview)
+- [The Challenge](#the-challenge)
+- [Screenshot](#screenshot)
+- [Links](#links)
+- [My Process](#my-process)
+- [Built With](#built-with)
+- [What I Learned](#what-i-learned)
+- [Continued Development](#continued-development)
+- [Useful Resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 ## Overview
-The challenge
+### The Challenge
 Users should be able to:
 
-See hover and focus states for all interactive elements on the page
-Screenshot
+- See hover and focus states for all interactive elements on the page
 
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like FireShot to take the screenshot. FireShot has a free option, so you don't need to purchase it.
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.
+## Screenshot
+*(Add a screenshot of your solution here.)*
 
 ## Links
-Solution URL: Add solution URL here
-Live Site URL: Add live site URL here
-My process
-Built with
-Semantic HTML5 markup
-CSS custom properties
-Flexbox
-CSS Grid
-Mobile-first workflow
-React - JS library
-Next.js - React framework
-Styled Components - For styles
-Note: These are just examples. Delete this note and replace the list above with your own choices
+- [Solution URL](#) *(Add solution URL here)*
+- [Live Site URL](#) *(Add live site URL here)*
 
-## What I learned
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+## My Process
+I approached this project using a mobile-first workflow and implemented the design using Semantic HTML5 markup and CSS custom properties. Below is a summary of the tools and methodologies I used:
 
-To see how you can add code snippets, see below:
+### Built With
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- React - JavaScript library
+- Next.js - React framework
+- Styled Components - For styles
 
-<h1>Some HTML code I'm proud of</h1>
-.proud-of-this-css {
-  color: papayawhip;
-}
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-If you want more help with writing markdown, we'd recommend checking out The Markdown Guide to learn more.
+## What I Learned
+In this project, I reinforced my understanding of various concepts, including:
 
-Note: Delete this note and the content within this section and replace with your own learnings.
+*(Add your major learnings and code snippets here.)*
 
-Continued development
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+## Continued Development
+Moving forward, I aim to focus on refining and perfecting the following areas:
 
-Note: Delete this note and the content within this section and replace with your own plans for continued development.
+*(Add areas you want to continue focusing on in future projects.)*
 
-## Useful resources
-Example resource 1 - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-Example resource 2 - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.
+## Useful Resources
+- [Example Resource 1](#) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [Example Resource 2](#) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
 ## Author
-Website - Add your name here
-Frontend Mentor - @yourusername
-Twitter - @yourusername
-Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.
+- Frontend Mentor - [@jaimedargallo](#)
+- Twitter - [@jaimedargallo](#)
+- Github - [@jaimedargallo](#)
 
 ## Acknowledgments
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+I'd like to express my gratitude to [mention individuals or teams who helped or inspired you in this project].
 
-Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely. 
+*(Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.)*
