@@ -63,10 +63,6 @@ Moving forward, I aim to focus on refining and perfecting the following areas:
 
 ## Author
 - [Frontend Mentor](https://www.frontendmentor.io/profile/jaimedargallo)
-- Twitter - [@jaimedargallo](#)
-- Github - [@jaimedargallo](#)
+- [Twitter](https://twitter.com/JaimeDargallo) 
+- [Github](https://github.com/jaimedargallo)
 
-## Acknowledgments
-I'd like to express my gratitude to [mention individuals or teams who helped or inspired you in this project].
-
-*(Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.)*
