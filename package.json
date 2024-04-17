@@ -1,15 +1,19 @@
 {
  "name": "preview-card",
  "version": "1.0.0",
-  "author": "JaimeDargallo",
-  "scripts": {
-    "dev": "npx vite",
-    "build": "npx vite build",
-    "preview": "npm run build && npx vite preview",
-    "format": "npx prettier --write .",
-    "deploy": "npx vercel --prod"
-  },
-  "devDependencies": {
-    "prettier": "3.2.5"
-  }
+ "author": "JaimeDargallo",
+ "scripts": {
+  "dev": "npx vite",
+  "build": "npx vite build",
+  "preview": "npm run build && npx vite preview",
+  "format": "npx prettier --write .",
+  "deploy": "npx vercel --prod"
+ },
+ "devDependencies": {
+  "prettier": "3.2.5"
+ },
+ "description": "![Design preview for the Blog preview card coding challenge](./design/desktop-preview.jpg)",
+ "main": "index.js",
+ "keywords": [],
+ "license": "ISC"
 }
