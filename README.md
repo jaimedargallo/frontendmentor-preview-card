@@ -62,7 +62,7 @@ Moving forward, I aim to focus on refining and perfecting the following areas:
 - [Example Resource 2](#) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
 ## Author
-- Frontend Mentor - [@jaimedargallo](#)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/jaimedargallo)
 - Twitter - [@jaimedargallo](#)
 - Github - [@jaimedargallo](#)
 
