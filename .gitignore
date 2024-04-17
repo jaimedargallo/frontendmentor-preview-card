@@ -17,6 +17,7 @@
 *:Zone.Identifier
 ./design
 .referencias.txt
+./assets
 
 # Dependency directories
 node_modules/
